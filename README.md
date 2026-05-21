@@ -2,9 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=iAmINRaZ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Developer+%7C+Creator+of+HydraScaner;Network+explorer+%7C+Open‑source+believer;Proxy+scanner+expert;Code+%2B+coffee+%3D+%F0%9F%9A%80" />
-</p>
+[![HydraScaner](https://img.shields.io/badge/HydraScaner-20%2B_features-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAmINRaZ/HydraScaner)
+
+[![HydraRelay](https://img.shields.io/badge/HydraRelay-Coming_soon-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAmINRaZ/HydraRelay)
+
+[![Internet Shutdown in Iran](https://img.shields.io/badge/Iran-Internet_Shutdown-critical?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAmINRaZ)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iAmINRaZ&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub stars](https://img.shields.io/github/stars/iAmINRaZ?style=social)
 
 ---
 
@@ -91,16 +97,8 @@
 </p>
 
 > 💡 *HydraRelay is currently in active development – stay tuned!*
+
   > 💡 *Hydra Family is on the way – stay alert!*
-
----
-
-## 📊 **GitHub analytics**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iAmINRaZ&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmINRaZ&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
