@@ -21,11 +21,7 @@
 🍕 **Mission** – Make Iran Great Again. (No explanation needed.)  
 🤔 **Desperately seeking** – a decent internet connection. My current speed is measured in tears. Bribes accepted? 🍕💰
 
-🕰️ **Fun Fact About Me** I have **34 years half‑finished project**. some say it’s time‑wasting, I say it’s **my life**.
-
-🐛 **Fun Fact About Me** I once tried to write a piece of code, ran into a bug, and tried to fix it. **That was back in 2022**.
-
-☕ **Fun Fact About Me** My coffee‑to‑code ratio is **7:1**. I’m starting to get a **little worried**.
+🕰️ **About Me** I have **34 years half‑finished project**. some say it’s time‑wasting, I say it’s **my life**.
 
 ---
 
